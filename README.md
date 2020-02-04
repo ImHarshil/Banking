@@ -1,7 +1,9 @@
 # Banking
 
 Title - Banking domain Credit Card department’s data prediction
+
 Scope: Risk analysis 
+
 Types of data - Structured, Semi-strutted data
 Machine Learning Algorithms:
 ·	Target column with Distributional values
